@@ -1,7 +1,7 @@
 awesome-config
 ===
 
-My configs for awesome window manager. Including my private settings and a customized theme.
+My configs for awesome window manager, including my private settings and a customized theme.
 
 ## Dependencies
 
