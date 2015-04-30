@@ -5,9 +5,9 @@ My configs for awesome window manager, including my private settings and a custo
 
 ## Dependencies
 
-* awesome
+* awesome >= 3.4
 * xfce4-appfinder
-* wicd
+* wicd and wicd-client
 
 ## Features
 
