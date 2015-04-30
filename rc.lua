@@ -272,7 +272,7 @@ globalkeys = awful.util.table.join(
                   awful.util.getdir("cache") .. "/history_eval")
               end),
 
-    awful.key({ "Mod1" }, "Shift_L",
+    awful.key({ "Mod1" }, "Shift_R",
               function ()
                   if current_layout == "dvorak" then current_layout = keyboard_layout[2]
 				  else current_layout =  keyboard_layout[1] end

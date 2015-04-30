@@ -14,7 +14,7 @@ My configs for awesome window manager. Including my private settings and a custo
 * use emacsclient as default editor
 * `modkey` + `e` : execute editor
 * `modkey` + `g` : execute xfce4-appfinder
-* `Alt` + `Shift_L` : switch dvorak and qwerty keyboard layouts
+* `Alt` + `Shift_R` : switch dvorak and qwerty keyboard layouts
 
 ## Install
 
