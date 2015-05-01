@@ -8,10 +8,10 @@ My configs for awesome window manager, including my private settings and a custo
 All of these dependencies can be installed via `apt-get` in Ubuntu system.
 
 * [awesome](http://awesome.naquadah.org/wiki/Main_Page) >= 3.4 && < 3.5. 
-* [xfce4-appfinder](http://docs.xfce.org/xfce/xfce4-appfinder/start) for quickly search applications.
+* [xfce4-appfinder](http://docs.xfce.org/xfce/xfce4-appfinder/start) for quickly search and launch applications.
 * [wicd](https://launchpad.net/wicd) for network configuration.
 * [kshutdown](http://kshutdown.sourceforge.net/) for poweroff/reboot/log off system.
-* [xcompmgr](https://wiki.archlinux.org/index.php/Xcompmgr) for enable transparent effect.
+* [xcompmgr](https://wiki.archlinux.org/index.php/Xcompmgr) to enable transparent effect.
 
 ## Features
 
