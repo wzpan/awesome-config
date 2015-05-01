@@ -7,6 +7,8 @@ local beautiful = require("beautiful")
 -- Notification library
 local naughty = require("naughty")
 
+awful.util.spawn_with_shell("xcompmgr -FC &")
+
 -- keyboard layout
 keyboard_layout = {"dvorak","us"}
 current_layout =  keyboard_layout[1]
@@ -370,6 +372,10 @@ awful.rules.rules = {
 	{ rule = { class = "xfce4-appfinder" },
       properties = { floating = true } },
 	{ rule = { class = "zeal" },
+      properties = { floating = true } },
+	{ rule = { class = "wick-client" },
+      properties = { floating = true } },
+	{ rule = { class = "cairo-dock" },
       properties = { floating = true } },	
     -- Set Firefox to always map on tags number 2 of screen 1.
     -- { rule = { class = "Firefox" },
